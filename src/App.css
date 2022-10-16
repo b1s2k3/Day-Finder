@@ -1,0 +1,43 @@
+* {
+  background-color: antiquewhite;
+}
+
+.App {
+  width: 65%;
+  margin: 4em auto;
+  font-size: 3em;
+  line-height: 2em;
+  font-weight: 800;
+  color: rgb(57, 56, 56);
+}
+
+.day-items {
+  display: inline;
+}
+
+button {
+  width: 100px;
+  height: 45px;
+  margin-left: 15px;
+  background-color: cadetblue;
+}
+
+input {
+  height: 3em;
+  background-color: rgb(227, 245, 245);
+  border-radius: 15%;
+}
+
+select {
+  border: solid;
+  height: 3em;
+  background-color: rgb(209, 195, 223);
+}
+
+.result {
+  text-align: center;
+}
+
+.input-items {
+  text-align: center;
+}
